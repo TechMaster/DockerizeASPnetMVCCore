@@ -1,0 +1,7 @@
+obj/
+bin/
+.vscode/
+out/
+ReadMe.md
+Dockerfile
+Dockerfile.globalization
